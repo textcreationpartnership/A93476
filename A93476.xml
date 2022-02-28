@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A solemn league and covenant, for reformation; and defence of religion, the honour and happiness of the King, and the peace &amp; safetie of the three kingdoms. Of Scotland, England, &amp; Ireland.</title>
+            <title>Solemn League and Covenant (1643)</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93476</idno>
+            <idno type="STC">Wing S4447B</idno>
+            <idno type="STC">ESTC R184348</idno>
+            <idno type="EEBO-CITATION">45578449</idno>
+            <idno type="OCLC">ocm 45578449</idno>
+            <idno type="VID">172365</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93476)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172365)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2627:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A solemn league and covenant, for reformation; and defence of religion, the honour and happiness of the King, and the peace &amp; safetie of the three kingdoms. Of Scotland, England, &amp; Ireland.</title>
+                  <title>Solemn League and Covenant (1643)</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Scotland. Convention of Estates.</author>
+                  <author>Church of Scotland. General Assembly.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted by Edw: Raban: and are to bee sold at his shop, at the end of the Broadgate.,</publisher>
+                  <pubPlace>Aberdene, :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Aberdeen University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland.</term>
+               <term>Solemn League and Covenant (1643).</term>
+               <term>Church and state --  England.</term>
+               <term>Presbyterianism.</term>
+               <term>Scotland --  Church history --  17th century.</term>
+               <term>Great Britain --  Church history --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172365:1"/>
+            <pb facs="tcp:172365:1"/>
+            <p>
+               <hi>A</hi> SOLEMN LEAGUE <hi>AND</hi> COVENANT, <hi>FOR</hi> REFORMATION; <hi>AND</hi> Defence of Religion, the Honour and Happineſs of the KING, and the Peace &amp; Safetie of the three Kingdoms. OF SCOTLAND, ENGLAND, &amp; IRELAND.</p>
+            <q>
+               <bibl>Ier. 50.5.</bibl>
+               <p>Come; let vs joyn our ſelues to the Lord in a perpetuall Covenant, that ſhall not bee forgotten.</p>
+            </q>
+            <q>
+               <bibl>Prov. 25.5.</bibl>
+               <p>Take away the wicked from before the King: and his Throne ſhall bee eſtabliſhed in righteouſneſs.</p>
+            </q>
+            <q>
+               <bibl>2. Chron. 15.15.</bibl>
+               <p>And all Judah rejoyced at <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Oath: for they had ſworn with all their heart, and ſought Him with their whole deſyre; and Hee was found of them: and the LORD gaue them reſt round about.</p>
+            </q>
+            <p>
+               <hi>ABERDENE,</hi> Imprinted by Edw: Raban: And are to bee ſold at his <hi>Shop, at the end of the Broadgate.</hi> 1643.</p>
+         </div>
+         <div type="document">
+            <pb facs="tcp:172365:2"/>
+            <pb facs="tcp:172365:2"/>
+            <head>Seſſ. XIV. <date>AUGUST. 17. 1643.</date>
+            </head>
+            <head>The Generall Aſſemblies Approbation of the draught of the League and <hi>COVENANT</hi> preſented to them.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Aſſemblie having recomended vnto a Com<g ref="char:EOLhyphen"/>mittee, appointed by them to joyn with the Committee of the Honourable Convention of E<g ref="char:EOLhyphen"/>ſtates, and the Commiſſioners of the Honourable Houſes of the Parliament of England, for brin<g ref="char:EOLhyphen"/>ging the Kingdoms, to a more near conjunction and Union, receaved from the aforeſayd Committees, the Covenant after-mentioned, as the reſult of their conſultations: And having taken the ſame, as a mat<g ref="char:EOLhyphen"/>ter of ſo publick concernment, and of ſo deep impor<g ref="char:EOLhyphen"/>tance doth require, vnto their graveſt conſideration, Did with all their hearts, and with the beginnings of the feelings of that joy which they did fynd in ſo great meaſure vpon the renovation of the National Covenant of this Kirk and Kingdome, All with one voice approue and embrace the ſame, as the moſt po<g ref="char:EOLhyphen"/>werfull
+<pb n="4" facs="tcp:172365:3"/>mean, by the Bleſſing of GOD, for ſettling and preſerving the true Proteſtant Religion, with per<g ref="char:EOLhyphen"/>fect Peace in his Majeſties Dominions, and propaga<g ref="char:EOLhyphen"/>ting the ſame to other Nations, and for eſtabliſhing his Majeſties Throne, to all Ages and Generations. And therefore, with their beſt affections recommend the ſame to the Honourable Convention of Eſtates; that beeing examined and approved by them, it may bee ſent with all diligence, to the Kingdom of England; That beeing receaved and approven there, the ſame may bee with publick humiliation, and all Religious and anſwerable ſolemnitie, ſworn and ſubſcribed by all true Profeſſours of the Reformed Religion, and all his Majeſties good Subjects in both Kingdoms.</p>
+            <closer>
+               <signed>A. Johnſton.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <head>The Convention of Estates their Ap<g ref="char:EOLhyphen"/>probation of the draught of the League and <hi>COVENANT</hi> afore<g ref="char:EOLhyphen"/>ſaid, <date>17. AUGUST. 1643.</date>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Noblemen, Commiſſioners of Shyres and Borrowes now conveaned, having receaved the Covenant aboue<g ref="char:EOLhyphen"/>mentioned from their Committee, as the reſult of their Conſultations with a Committee of the Generall Aſſemblie, and the Commiſſioners from both Houſes of the Parliament
+<pb n="5" facs="tcp:172365:3"/>of England; And having taken that Covenant vnto their graveſt conſideration, Did with all their hearts and great expreſſions of joy and vnanimitie approue and embrace the ſame, as the moſt powerfull mean, by the Bleſſing of GOD, for ſettling and preſerving the true Proteſtant Religion, with a perfect Peace in all his Majeſties Dominions, and propagating the ſame to other Nations, and for eſtabliſhing his Maje<g ref="char:EOLhyphen"/>ſties Throne to all ages. And beeing verie confident that their Brethren in the Kingdom of England, will heartilie receaue and approue the ſame: Therefore, according to the earneſt recommendation of that Ve<g ref="char:EOLhyphen"/>nerable Aſſemblie of this Kirk now met, thinks it moſt neceſſarie for the good ends aforeſaid; that it bee ſent into that Kingdom with all diligence, That beeing re<g ref="char:EOLhyphen"/>ceaved and approved by their Brethren there, the ſame may bee with all Religious Solemnities ſworn, and ſubſcribed by all true Profeſſours of the Reformed Religion, and all his Majeſties good Subjects in both Kingdoms.</p>
+            <closer>
+               <signed>
+                  <hi>Arch: Primeroſe,</hi> Cler. com.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <head>EDINBURGH, <date>11 OctoB. 1643.</date>
+            </head>
+            <head>Ordinance for the ſolemn receaving, ſwearing, and ſuſcribing of the League and Covenant.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Commiſſioners of the Generall Aſſemblie, having receaved from their Brethren ſent vnto the Kingdom of England, the ſolemn League
+<pb n="6" facs="tcp:172365:4"/>and COVENANT vnder-written, as it was approven by the Honourable Houſes of the PAR<g ref="char:EOLhyphen"/>LIAMENT of ENGLAND, and the Aſſem<g ref="char:EOLhyphen"/>blie of Divines in that Kingdom, and ſolemnlie ſworn and ſubſcribed there. After due examination thereof, did all in one voice moſt heartilie receaue and embrace the ſame, as agreeing with the draught, vnanimouſlie and chearfullie approven and embraced by the late Generall Aſſemblie, and Convention of Eſtates. As the moſt powerfull mean by the Bleſſing of GOD, for ſettling and preſetving the true Proteſtant Religion, with perfect Peace in his Majeſties Dominions, and propagating the ſame to other Nations, and for eſta<g ref="char:EOLhyphen"/>bliſhing his Majeſties Throne, to all ages and genera<g ref="char:EOLhyphen"/>tions: And therefore, according to the power given to them by the ſayd Aſſemblie, Ordain this ſolemn Leauge and Covenant to bee with publick humiliation, and all Religious ſolemnities receaved, ſworn, and ſubſcribed by all Miniſters and Profeſſours within this Kirk: And, that this may bee vniverſallie performed, It is alſo ordayned that this League and Covenant bee foorthwith printed, &amp; that the printed Copies, bound with ſome clean ſheets of paper, bee ſent vnto the Mi<g ref="char:EOLhyphen"/>niſterie, And that everie Miniſter vpon the firſt Lords Day, after the ſame ſhall come to his hands, reade and explain it, &amp; by exhortation prepare the People to the ſwearing and ſubſcribing thereof ſolemnlie, the Lords Day next immediatlie following. And it is farther Ordained, that Presbyteries take account of the per<g ref="char:EOLhyphen"/>formance heereof in their ſeverall bounds; and that they proceed with the Cenſures of the Kirk, againſt all
+<pb n="7" facs="tcp:172365:4"/>ſuch as ſhall refuſe, or ſhift to ſwear and ſubſcribe this League and Covenant, as enemies to the preſervation and propagation of Religion, And that they notifie their names, and make particular report of their own diligence heereintill, to this Commiſſion, or their Mo<g ref="char:EOLhyphen"/>derator, or Clerk to bee delivered to them. And the Commiſſioners think it verie convenient, for good example, and the better encouragement of others; that this Covenant bee ſolemnlie ſworn, and ſubſcribed by themſelues now preſent, before the Congregation, in the Eaſt Kirk vpon Fryday next, the 13 of this inſtant, after Sermon, and exhortation to bee made by Maſter <hi>Robert Dowglas,</hi> Moderator; And that the Commiſ<g ref="char:EOLhyphen"/>ſioners of the Convention of Eſtates now in Town, and the Commiſsioners from the Parliament of Eng<g ref="char:EOLhyphen"/>land, and the Divines of that Kingdom heere preſent, bee earneſtlie deſyred to joyne with them in this ſo<g ref="char:EOLhyphen"/>lemn and Religious Action.</p>
+            <closer>
+               <signed>A. Ker.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <head>At Edinburgh, <date>the 12 of October, 1643.</date>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Commiſſioners of the Conven<g ref="char:EOLhyphen"/>tion of Eſtates, having receaved from the Commiſſioners of the Generall Aſſemblie, the ſolemn League and Covenant vnder-written approven and ſolemnlie ſworn and ſubſcribed,
+<pb n="8" facs="tcp:172365:5"/>in the kingdom of England. And having taken the ſame to their ſerious conſideration, do vnanimouſlie and chearfullie receave, &amp; embrace it, as agreeing with that draught, approven by the late Convention of Eſtates, and Generall Aſſemblie. And therefore, ordains the ſame to bee with all Religious ſolemnities ſworn and ſubſcribed by all his Majeſties Subjects of this King<g ref="char:EOLhyphen"/>dome: And that vnder the pain to ſuch as ſhall poſt<g ref="char:EOLhyphen"/>pone or refuſe, to bee eſteemed and puniſhed as enemies to Religion, his Majeſties Honor, &amp; Peace of thir King<g ref="char:EOLhyphen"/>doms; And to haue their goods and rents confiſcate for the uſe of the publick, and that they ſhall not bruik nor enjoy any benefite, place nor office within this King<g ref="char:EOLhyphen"/>dome. And als ordains all Sheriffs, Stuarts, and others his Majeſties Magiſtrates to Burgh and Land, and Committees in the ſeverall Shires, To bee aſsiſting to Miniſters &amp; Presbyteries, in procuring reall obedience here-vnto. And that with all diligence they make re<g ref="char:EOLhyphen"/>port to the Committee of Eſtates, of the names of all ſuch perſons, as ſhall poſtpone or refuſe, to the effect courſe may bee taken with them as aforeſaid. And that they may bee cited to anſwer to the next Parliament, as enemies to Religion, King and Kingdomes, and to receaue what further puniſhment his Majeſtie and Par<g ref="char:EOLhyphen"/>liament ſhall inflict vpon them. And further ordains thir preſents to bee printed with the former Act of the Eſtates, and publiſhed at the Market Croſſes of the head Burrowes of this Kingdome; Wherethrough none pretend ignorance of the ſame.</p>
+            <closer>
+               <signed>
+                  <hi>Arch: Primeroſe,</hi> Cler. Com.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="9" facs="tcp:172365:5"/>
+            <head>A SOLENM LEAGUE <hi>AND</hi> COVENANT, For REFORMATION, And Defence of Religion, The Honour &amp; Happineſs of the King, and the Peace and Safetie of the three Kingdoms of Scotland, England, and Ireland.</head>
+            <p>
+               <seg rend="decorInit">W</seg>EE, Noblemen, Ba<g ref="char:EOLhyphen"/>rons, Knights, Gentlemen, Citizens, Burges, Miniſters of the Goſpell, and Commons of all ſorts in the Kingdoms of <hi>Scot<g ref="char:EOLhyphen"/>land, England,</hi> and <hi>Ireland,</hi> by the Providence of GOD, living vn<g ref="char:EOLhyphen"/>der one King; and beeing of one reformed Religion; Having before our eyes the Glorie of GOD, and the advancement of the Kingdom of our Lord &amp; Saviour Ieſus Chriſt, the Honour and Happineſs of the Kings
+<pb n="10" facs="tcp:172365:6"/>Majeſtie, and his Poſteritie, and the true publicke Li<g ref="char:EOLhyphen"/>bertie, Safetie, and Peace of the Kingdomes; wherein everie ones private condition is included; And calling to mynd the treacherous and bloodie Plots, conſpira<g ref="char:EOLhyphen"/>cies, attempts, and practices of the enemies of GOD, againſt the true Religion, and Profeſſours thereof in all places, eſpeciallie in theſe three Kingdomes ever ſince the Reformation of Religion, &amp; how much their rage, power and preſumption are of late, and at this tyme increaſed and exerciſed; whereof the deplorable ſtate of the Church and Kingdome of Ireland, the diſtreſſed eſtate of the Church and Kingdome of England, and the dangerous eſtate of the Church and Kingdome of Scotland are preſent &amp; publick teſtimonies; Wee haue now at laſt (after other means of Supplicaton, Remon<g ref="char:EOLhyphen"/>ſtrance, Proteſtations and Sufferings) for the preſer<g ref="char:EOLhyphen"/>vation of our ſelves and our Religion from vtter ruine and deſtruction, according to the commendable pra<g ref="char:EOLhyphen"/>ctice of theſe Kingdomes in former times, and the ex<g ref="char:EOLhyphen"/>ample of GODS people, in other Nations, After mature deliberation, reſolved and determined to enter into a mutuall and ſolemne League and Covenant; Wherein wee all ſubſcribe, and each one of vs for him<g ref="char:EOLhyphen"/>ſelf, with our hands lifted vp to the moſt high GOD do Swear:</p>
+            <p n="1">I. THat wee ſhall ſincerelie, reallie, and conſtantlie through the Grace of GOD, endevour in our ſeverall places and callings, the preſervation of the Reformed Religion in the Church of Scot<g ref="char:EOLhyphen"/>land in Doctrine, Worſhip, Diſcipline and Govern<g ref="char:EOLhyphen"/>ment, againſt our common Enemies, The Reforma<g ref="char:EOLhyphen"/>tion
+<pb n="11" facs="tcp:172365:6"/>of Religion in the Kingdomes of England and Ireland, in Doctrine, Worſhip, Diſcipline, and Govern<g ref="char:EOLhyphen"/>ment, according to the Word of GOD, and the ex<g ref="char:EOLhyphen"/>ample of the beſt Reformed Churches; And ſhall en<g ref="char:EOLhyphen"/>deavour to bring the Churches of GOD in the three Kingdomes, to the neareſt conjunction and Uniformi<g ref="char:EOLhyphen"/>tie in Religion, Confeſſion of Faith, Form of Church-government, Directory for Worſhip and Catechizing; That wee and our poſteritie after vs, may as Brethren, liue in Faith and Loue, and the Lord may delight to dwell in the midſt of vs.</p>
+            <p n="2">2. That wee ſhall in like manner, without reſpect of perſons, endeavour the Extirpation of poperie, prelacie (that is, Church Governement, by Arch-biſhops, Biſhops, their Chancellours, and Commiſſaries, Deans, Deans and Chapters, Arch-deacons, and all other Eccleſiaſtical Officers depending on that Hierar<g ref="char:EOLhyphen"/>chy) Superſtition, Hereſie, Schiſm, Prophaneneſſe, and whatſoever ſhall bee found to bee contrarie to ſound Doctrine, &amp; the power of Godlineſſe; Leſt wee pertake in other mens ſinns, &amp; thereby bee in danger to receaue of their plagues; And that the Lord may bee one, and his Name one in the three Kingdomes.</p>
+            <p n="3">3. Wee ſhall with the ſame ſinceritie, realitie, &amp; con<g ref="char:EOLhyphen"/>ſtancie, in our ſeverall vocations endeavour with our eſtates and liues mutuallie to preſerue the Rights and Priviledges of the Parliaments, and the Liberties of the Kingdomes, And to preſerue and defend the Kings Majeſties Perſon and Authority, in the preſervation and defence of the true Religion, and Liberties of the
+<pb n="12" facs="tcp:172365:7"/>Kingdomes; That the world may bear witneſſe with our conſciences of our Loyaltie, and that wee haue no thoughts or intentions to diminiſh his Majeſties juſt power and greatneſſe.</p>
+            <p n="4">4. Wee ſhal alſo with all faithfulneſſe endeavour the diſcoverie of al ſuch as haue been, or ſhal bee Incendia<g ref="char:EOLhyphen"/>ries, Malignants, or evil inſtruments, by hindering the Reformation of Religion, dividing the King from his people, or one of the Kingdomes from another, or ma<g ref="char:EOLhyphen"/>king any faction, or parties amongſt the people contra<g ref="char:EOLhyphen"/>rie to this League and Covenant, That they may bee brought to publick triall, and receaue condign puniſh<g ref="char:EOLhyphen"/>ment, as the degree of their offences ſhall require or de<g ref="char:EOLhyphen"/>ſerue, or the ſupream Iudicatories of both Kingdomes reſpectively, or others having power from them for that effect, ſhall judge convenient.</p>
+            <p n="5">5. And whereas the happineſſe of a bleſſed Peace between theſe Kingdomes, denyed in former tymes to our Progenitors, is by the good Providence of GOD granted vnto vs, and hath been latelie concluded, and ſetled by both Parliaments, Wee ſhall each one of vs, according to our place &amp; intereſt, endeavour that they may remain conjoyned in a firm Peace and Union to all Poſteritie, And that Iuſtice may bee done vpon the wilfull Oppoſers thereof, in manner expreſſed in the precedent Article.</p>
+            <p n="6">6. Wee ſhall alſo according to our places &amp; callings in this Common cauſe of Religion, Libertie, and Peace of the Kingdomes, aſſiſt and defend all thoſe that en<g ref="char:EOLhyphen"/>ter
+<pb n="13" facs="tcp:172365:7"/>into this League and Covenant, in the maintaining and perſuing thereof: And ſhall not ſuffer our ſelues di<g ref="char:EOLhyphen"/>rectlie or indirectlie by whatſoever combination, per<g ref="char:EOLhyphen"/>ſwaſion or terrour, to bee divided and withdrawn from this bleſſed Union and conjunction, whither to make defection to the contrarie part, or to giue our ſelues to a deteſtable indifferencie, or neutralitie in this cauſe, which ſo much concerneth the glorie of God, the good of the Kingdoms, and honour of the King; But ſhall all the dayes of our liues zealouſlie and conſtantlie conti<g ref="char:EOLhyphen"/>nue therein, againſt all oppoſition, and promote the ſame according to our power, againſt all Lets and Im<g ref="char:EOLhyphen"/>pediments whatſoever; And, what wee are not able our ſelues to ſuppreſſe or overcome, wee ſhall reveale and make known, that it may bee timelie prevented or re<g ref="char:EOLhyphen"/>moved: All which wee ſhall do as in the ſight of GOD.</p>
+            <p>And, becauſe theſe Kingdomes are guiltie of manie ſinnes, and provocations againſt GOD, &amp; his Son Ieſus Chriſt, as is too manifeſt by our preſent diſtreſſes and dangers, the fruits thereof, Wee profeſſe &amp; declare be<g ref="char:EOLhyphen"/>fore GOD and the world, our vnfeygned deſyre to bee humbled for our own ſins, &amp; for the ſins of theſe King<g ref="char:EOLhyphen"/>doms: eſpeciallie, that wee haue not, as wee ought, va<g ref="char:EOLhyphen"/>lued the ineſteemable benefit of the Goſpell, that wee haue not laboured for the Puritie and power thereof: and that wee haue not endeavoured to receaue Chriſt in our hearts; nor to walk worthie of him in our lyues, which are the cauſes of other ſinnes and tranſgreſſions ſo much abounding amongſt vs. And our true and vn<g ref="char:EOLhyphen"/>feygned purpoſe, deſyre, and endeavour for our ſelues, and all others vnder our power and charge, both in pu<g ref="char:EOLhyphen"/>blick
+<pb n="14" facs="tcp:172365:8"/>and in privitie in all dueties wee ow to GOD and Man, to amend our lyues, and each man to go be<g ref="char:EOLhyphen"/>fore another in the example of a reall Reformation: That the LORD may turn away his wrath, and heavie indignation, and eſtabliſh theſe Churches and King<g ref="char:EOLhyphen"/>doms, in Trueth and Peace. And this <hi>COVENANT</hi> wee make in the preſence of ALL-MIGHTIE GOD, the Searcher of all hearts; with a true intention to perform the ſame; As wee ſhall anſwer at that Great Day, when the ſecrets of all hearts ſhall bee diſcloſed; Moſt humblie beſeeching the LORD, to ſtrengthen vs by His Holie Spirit, for this end; And to bleſs our deſyres, and proceedings, with ſuch ſucceſs, as may bee deliverance and ſafetie to his People, and encow<g ref="char:EOLhyphen"/>ragement to other Chriſtian Churches groaning vn<g ref="char:EOLhyphen"/>der, or in danger of the yoak of <hi>Antichristian Tyran<g ref="char:EOLhyphen"/>nie,</hi> to joyn in the ſame, or lyke Aſſociation and Co<g ref="char:EOLhyphen"/>venant; To the Glorie of GOD, the inlargement of the Kingdome of IESUS CHRIST, and the Peace and Tranquillitie of Chriſtian Kingdoms, and Com<g ref="char:EOLhyphen"/>mon Wealths.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:172365:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
